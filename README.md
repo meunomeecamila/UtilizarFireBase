@@ -24,28 +24,6 @@ O usuário pode digitalizar o QR Code da bicicleta, iniciar um passeio, finaliza
 - **React Navigation**
 - **Expo BarCodeScanner**
 - **Ionicons**
-
----
-
-## 📂 Estrutura do Projeto
-
-/
-│── screens/
-│ ├── Ride.js # Tela de aluguel e scanner
-│ ├── RideHistory.js # Tela de histórico
-│
-│── navigation/
-│ └── BottomTabNavigator.js # Navegação inferior
-│
-│── config/
-│ └── config.js # Configuração do Firebase
-│
-│── assets/
-│ ├── background2.png
-│ ├── appIcon.png
-│
-└── App.js
-/
 ---
 
 ## 🔥 Configuração do Firebase
