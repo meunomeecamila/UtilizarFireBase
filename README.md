@@ -45,6 +45,7 @@ O usuário pode digitalizar o QR Code da bicicleta, iniciar um passeio, finaliza
 │ ├── appIcon.png
 │
 └── App.js
+/
 ---
 
 ## 🔥 Configuração do Firebase
